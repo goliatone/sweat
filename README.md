@@ -21,6 +21,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 * 2015-11-21: sweat@0.2.0 Initial `npm` release
+* 2015-11-21: sweat@0.3.0 Added missing deps
 
 ## License
 Copyright (c) 2015 goliatone  
