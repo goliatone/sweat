@@ -33,6 +33,8 @@
   },
   "dependencies": {
     "gextend": "^0.1.6",
+    "rindle": "^1.2.0",
+    "windosu": "^0.1.3",
     "yargonaut": "^1.1.2",
     "yargs": "^3.30.0"
   },
